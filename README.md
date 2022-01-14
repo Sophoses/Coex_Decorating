@@ -7,6 +7,7 @@
 <img width="20%" src="https://user-images.githubusercontent.com/57757760/149547831-90af44b7-4c75-45f3-b97e-6b226d54fb89.gif"/>
 <img width="20%" src="https://user-images.githubusercontent.com/57757760/149546279-7a3e3e13-4d78-4578-a9a1-355d8d42349a.gif"/>
 <img width="20%" src="https://user-images.githubusercontent.com/57757760/149547516-5e28c46c-5bb8-4400-9513-7d9ebb799977.gif"/>
+<img width="20%" src=""/>
 
 ## 콘텐츠 및 서비스 주요 기능
 - 코엑스 벽에 스티커 붙이는 기능(추가, 삭제 가능)
@@ -20,6 +21,3 @@
 - Unity 2020.3.17f1, Visual Studio Community 2019
 - C#
 - JSON
-
-## 사용방법
----
