@@ -1,0 +1,1274 @@
+{
+    "store": [
+        {
+            "store_index": "A01",
+            "store_name": "할리스커피",
+            "store_review_URL": "https://place.map.kakao.com/27606334#comment"
+        },
+        {
+            "store_index": "A02",
+            "store_name": "플랫폼플레이스",
+            "store_review_URL": "https://place.map.kakao.com/26911644#comment"
+        },
+        {
+            "store_index": "A03",
+            "store_name": "베네베네",
+            "store_review_URL": "https://place.map.kakao.com/1092294135#comment"
+        },
+        {
+            "store_index": "A04",
+            "store_name": "\t아르마니진 플래그십",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "A05",
+            "store_name": "버윅 1707",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "A06",
+            "store_name": "TNGT",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "A07",
+            "store_name": "칼하트 WIP",
+            "store_review_URL": "https://place.map.kakao.com/1399028575#comment"
+        },
+        {
+            "store_index": "A08",
+            "store_name": "시리즈 코너",
+            "store_review_URL": "https://place.map.kakao.com/26908817#comment"
+        },
+        {
+            "store_index": "B01",
+            "store_name": "헤지스",
+            "store_review_URL": "https://place.map.kakao.com/26487441#comment"
+        },
+        {
+            "store_index": "B02",
+            "store_name": "라템",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "B03",
+            "store_name": "인코코",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "B04",
+            "store_name": "에잇세컨즈",
+            "store_review_URL": "https://place.map.kakao.com/26908177#comment"
+        },
+        {
+            "store_index": "B05",
+            "store_name": "키엘",
+            "store_review_URL": "https://place.map.kakao.com/26913293#comment"
+        },
+        {
+            "store_index": "B06",
+            "store_name": "록시땅",
+            "store_review_URL": "https://place.map.kakao.com/13564950#comment"
+        },
+        {
+            "store_index": "B07",
+            "store_name": "바닐라코",
+            "store_review_URL": "https://place.map.kakao.com/1405131004#comment"
+        },
+        {
+            "store_index": "B08",
+            "store_name": "헤지스",
+            "store_review_URL": "https://place.map.kakao.com/26487441#comment"
+        },
+        {
+            "store_index": "B09",
+            "store_name": "아리따움",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "B10",
+            "store_name": "랩",
+            "store_review_URL": "https://place.map.kakao.com/1537729247#comment"
+        },
+        {
+            "store_index": "C01",
+            "store_name": "트위",
+            "store_review_URL": "https://place.map.kakao.com/26338955#comment"
+        },
+        {
+            "store_index": "C02",
+            "store_name": "베나코앤 폰타나",
+            "store_review_URL": "https://place.map.kakao.com/26908784#comment"
+        },
+        {
+            "store_index": "C03",
+            "store_name": "플러스 에스큐",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "C04",
+            "store_name": "이마트24 5호점",
+            "store_review_URL": "https://place.map.kakao.com/1507226349#comment"
+        },
+        {
+            "store_index": "C05",
+            "store_name": "아메리칸이글 아웃피터스",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "C06",
+            "store_name": "럭키 슈에뜨",
+            "store_review_URL": "https://place.map.kakao.com/26908659#comment"
+        },
+        {
+            "store_index": "C07",
+            "store_name": "파피루스",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "C08",
+            "store_name": "JUST JNNY",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "C09",
+            "store_name": "자라홈",
+            "store_review_URL": "https://place.map.kakao.com/26319425#comment"
+        },
+        {
+            "store_index": "C10",
+            "store_name": "레벨5",
+            "store_review_URL": "https://place.map.kakao.com/26908766#comment"
+        },
+        {
+            "store_index": "C11",
+            "store_name": "미쏘",
+            "store_review_URL": "https://place.map.kakao.com/1994556391#comment"
+        },
+        {
+            "store_index": "C12",
+            "store_name": "트위",
+            "store_review_URL": "https://place.map.kakao.com/26338955#comment"
+        },
+        {
+            "store_index": "D01",
+            "store_name": "훌라",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "D02",
+            "store_name": "MCM",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "D03",
+            "store_name": "쿠론",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "D04",
+            "store_name": "판도라",
+            "store_review_URL": "https://place.map.kakao.com/26908327#comment"
+        },
+        {
+            "store_index": "D05",
+            "store_name": "이코북스",
+            "store_review_URL": "https://place.map.kakao.com/26559476#comment"
+        },
+        {
+            "store_index": "D06",
+            "store_name": "비비안 라이브",
+            "store_review_URL": "https://place.map.kakao.com/26911763#comment"
+        },
+        {
+            "store_index": "D07",
+            "store_name": "토니모리 라비오뜨",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "D08",
+            "store_name": "솔브",
+            "store_review_URL": "https://place.map.kakao.com/26911652#comment"
+        },
+        {
+            "store_index": "D09",
+            "store_name": "알도",
+            "store_review_URL": "https://place.map.kakao.com/1726391377#comment"
+        },
+        {
+            "store_index": "D10",
+            "store_name": "블랙마틴싯봉",
+            "store_review_URL": "https://place.map.kakao.com/26428931#comment"
+        },
+        {
+            "store_index": "E01",
+            "store_name": "CC SHOP",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "E02",
+            "store_name": "Etam",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "E03",
+            "store_name": "에코",
+            "store_review_URL": "https://place.map.kakao.com/544931065#comment"
+        },
+        {
+            "store_index": "E04",
+            "store_name": "세라 넥스트도어",
+            "store_review_URL": "https://place.map.kakao.com/27160063#comment"
+        },
+        {
+            "store_index": "E05",
+            "store_name": "브릭스",
+            "store_review_URL": "https://place.map.kakao.com/952953575#comment"
+        },
+        {
+            "store_index": "E06",
+            "store_name": "케이스 갤러리 2호",
+            "store_review_URL": "https://place.map.kakao.com/671600554#comment"
+        },
+        {
+            "store_index": "E07",
+            "store_name": "비투",
+            "store_review_URL": "https://place.map.kakao.com/26908500#comment"
+        },
+        {
+            "store_index": "E08",
+            "store_name": "세컨 스킨",
+            "store_review_URL": "https://place.map.kakao.com/26908528#comment"
+        },
+        {
+            "store_index": "E09",
+            "store_name": "젠",
+            "store_review_URL": "https://place.map.kakao.com/1417266811#comment"
+        },
+        {
+            "store_index": "E10",
+            "store_name": "준오 헤어",
+            "store_review_URL": "https://place.map.kakao.com/11602468#comment"
+        },
+        {
+            "store_index": "E11",
+            "store_name": "ANLE COFFEE",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "E12",
+            "store_name": "n.sole",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "F01",
+            "store_name": "현대자동차 쇼룸",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "F02",
+            "store_name": "버버리 뷰티박스",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "F03",
+            "store_name": "러쉬",
+            "store_review_URL": "https://place.map.kakao.com/26912105#comment"
+        },
+        {
+            "store_index": "F04",
+            "store_name": "쌤소나이트",
+            "store_review_URL": "https://place.map.kakao.com/9201741#comment"
+        },
+        {
+            "store_index": "F05",
+            "store_name": "케리마켓",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "F06",
+            "store_name": "코즈니",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "F07",
+            "store_name": "고려귀금속",
+            "store_review_URL": "https://place.map.kakao.com/26908531#comment"
+        },
+        {
+            "store_index": "G01",
+            "store_name": "T프리미엄스토어",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "G02",
+            "store_name": "이니스프리",
+            "store_review_URL": "https://place.map.kakao.com/13096234#comment"
+        },
+        {
+            "store_index": "G03",
+            "store_name": "잇츠스킨",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "G04",
+            "store_name": "더페이스샵",
+            "store_review_URL": "https://place.map.kakao.com/1746382193#comment"
+        },
+        {
+            "store_index": "G05",
+            "store_name": "HANS",
+            "store_review_URL": "https://place.map.kakao.com/1961601274#comment"
+        },
+        {
+            "store_index": "G06",
+            "store_name": "아셈안경",
+            "store_review_URL": "https://place.map.kakao.com/16678353#comment"
+        },
+        {
+            "store_index": "G07",
+            "store_name": "커피빈",
+            "store_review_URL": "https://place.map.kakao.com/8112558#comment"
+        },
+        {
+            "store_index": "G08",
+            "store_name": "소프레소",
+            "store_review_URL": "https://place.map.kakao.com/16906168#comment"
+        },
+        {
+            "store_index": "G09",
+            "store_name": "고궁전주비빔밥",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "G10",
+            "store_name": "서울덮밥",
+            "store_review_URL": "https://place.map.kakao.com/21310899#comment"
+        },
+        {
+            "store_index": "G11",
+            "store_name": "포베이",
+            "store_review_URL": "https://place.map.kakao.com/26901093#comment"
+        },
+        {
+            "store_index": "G12",
+            "store_name": "소풍",
+            "store_review_URL": "https://place.map.kakao.com/26306839#comment"
+        },
+        {
+            "store_index": "G13",
+            "store_name": "쭈불쭈불",
+            "store_review_URL": "https://place.map.kakao.com/1288228516#comment"
+        },
+        {
+            "store_index": "G14",
+            "store_name": "뽕스 함바그",
+            "store_review_URL": "https://place.map.kakao.com/27078673#comment"
+        },
+        {
+            "store_index": "G15",
+            "store_name": "무교낙지",
+            "store_review_URL": "https://place.map.kakao.com/16296823#comment"
+        },
+        {
+            "store_index": "G16",
+            "store_name": "스무디킹",
+            "store_review_URL": "https://place.map.kakao.com/26809710#comment"
+        },
+        {
+            "store_index": "G17",
+            "store_name": "사이드쇼",
+            "store_review_URL": "https://place.map.kakao.com/27315486#comment"
+        },
+        {
+            "store_index": "G18",
+            "store_name": "닥터마틴",
+            "store_review_URL": "https://place.map.kakao.com/26911870#comment"
+        },
+        {
+            "store_index": "G19",
+            "store_name": "미닉스",
+            "store_review_URL": "https://place.map.kakao.com/16792198#comment"
+        },
+        {
+            "store_index": "G20",
+            "store_name": "미샤",
+            "store_review_URL": "https://place.map.kakao.com/18354033#comment"
+        },
+        {
+            "store_index": "G21",
+            "store_name": "네이터 리퍼블릭",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "H01",
+            "store_name": "올리브영",
+            "store_review_URL": "https://place.map.kakao.com/26510870#comment"
+        },
+        {
+            "store_index": "H02",
+            "store_name": "원더브라",
+            "store_review_URL": "https://place.map.kakao.com/511179581#comment"
+        },
+        {
+            "store_index": "H03",
+            "store_name": "쥬스스타",
+            "store_review_URL": "https://place.map.kakao.com/981107118#comment"
+        },
+        {
+            "store_index": "H04",
+            "store_name": "스타카토",
+            "store_review_URL": "https://place.map.kakao.com/27373632#comment"
+        },
+        {
+            "store_index": "H05",
+            "store_name": "유니클로",
+            "store_review_URL": "https://place.map.kakao.com/9320408#comment"
+        },
+        {
+            "store_index": "H06",
+            "store_name": "오이쇼",
+            "store_review_URL": "https://place.map.kakao.com/27497946#comment"
+        },
+        {
+            "store_index": "I01",
+            "store_name": "사보텐",
+            "store_review_URL": "https://place.map.kakao.com/26139651#comment"
+        },
+        {
+            "store_index": "I02",
+            "store_name": "시코르",
+            "store_review_URL": "https://place.map.kakao.com/1974968913#comment"
+        },
+        {
+            "store_index": "I03",
+            "store_name": "KFC",
+            "store_review_URL": "https://place.map.kakao.com/26901141#comment"
+        },
+        {
+            "store_index": "I04",
+            "store_name": "CJ푸드월드",
+            "store_review_URL": "https://place.map.kakao.com/820348338#comment"
+        },
+        {
+            "store_index": "I05",
+            "store_name": "씨스페이스CVS",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "I06",
+            "store_name": "팜엑스약국",
+            "store_review_URL": "https://place.map.kakao.com/16820328#comment"
+        },
+        {
+            "store_index": "I07",
+            "store_name": "코나이비인후과",
+            "store_review_URL": "https://place.map.kakao.com/26324137#comment"
+        },
+        {
+            "store_index": "J01",
+            "store_name": "공수간",
+            "store_review_URL": "https://place.map.kakao.com/26894267#comment"
+        },
+        {
+            "store_index": "J02",
+            "store_name": "니뽕내뽕",
+            "store_review_URL": "https://place.map.kakao.com/27441566#comment"
+        },
+        {
+            "store_index": "J03",
+            "store_name": "더심플한테이블",
+            "store_review_URL": "https://place.map.kakao.com/1204304814#comment"
+        },
+        {
+            "store_index": "J04",
+            "store_name": "빨라쪼델프레도",
+            "store_review_URL": "https://place.map.kakao.com/26897602#comment"
+        },
+        {
+            "store_index": "J05",
+            "store_name": "영풍문고",
+            "store_review_URL": "https://place.map.kakao.com/26493758#comment"
+        },
+        {
+            "store_index": "J06",
+            "store_name": "네이처리퍼블릭",
+            "store_review_URL": "https://place.map.kakao.com/1645416538#comment"
+        },
+        {
+            "store_index": "J07",
+            "store_name": "포베이",
+            "store_review_URL": "https://place.map.kakao.com/26901093#comment"
+        },
+        {
+            "store_index": "J08",
+            "store_name": "고디바",
+            "store_review_URL": "https://place.map.kakao.com/26897672#comment"
+        },
+        {
+            "store_index": "J09",
+            "store_name": "자연은맛있다",
+            "store_review_URL": "https://place.map.kakao.com/26832746#comment"
+        },
+        {
+            "store_index": "J10",
+            "store_name": "클로리스",
+            "store_review_URL": "https://place.map.kakao.com/26897290#comment"
+        },
+        {
+            "store_index": "J11",
+            "store_name": "롭스",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "J12",
+            "store_name": "아담",
+            "store_review_URL": "https://place.map.kakao.com/26908421#comment"
+        },
+        {
+            "store_index": "J13",
+            "store_name": "영풍문고",
+            "store_review_URL": "https://place.map.kakao.com/26493758#comment"
+        },
+        {
+            "store_index": "K01",
+            "store_name": "언더텐달러",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "K02",
+            "store_name": "리바이스",
+            "store_review_URL": "https://place.map.kakao.com/2103486349#comment"
+        },
+        {
+            "store_index": "K03",
+            "store_name": "뮬2",
+            "store_review_URL": "https://place.map.kakao.com/26908703#comment"
+        },
+        {
+            "store_index": "K04",
+            "store_name": "자주",
+            "store_review_URL": "https://place.map.kakao.com/26915127#comment"
+        },
+        {
+            "store_index": "K05",
+            "store_name": "그랜드마오",
+            "store_review_URL": "https://place.map.kakao.com/26354637#comment"
+        },
+        {
+            "store_index": "K06",
+            "store_name": "디퀸즈",
+            "store_review_URL": "https://place.map.kakao.com/26901217#comment"
+        },
+        {
+            "store_index": "K07",
+            "store_name": "뽀르게따",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "K08",
+            "store_name": "아그라",
+            "store_review_URL": "https://place.map.kakao.com/26431185#comment"
+        },
+        {
+            "store_index": "K09",
+            "store_name": "케르반",
+            "store_review_URL": "https://place.map.kakao.com/26783038#comment"
+        },
+        {
+            "store_index": "K10",
+            "store_name": "르사이공",
+            "store_review_URL": "https://place.map.kakao.com/26898618#comment"
+        },
+        {
+            "store_index": "K11",
+            "store_name": "테이블스타",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "K12",
+            "store_name": "사리원",
+            "store_review_URL": "https://place.map.kakao.com/1518789176#comment"
+        },
+        {
+            "store_index": "K13",
+            "store_name": "버터",
+            "store_review_URL": "https://place.map.kakao.com/27403075#comment"
+        },
+        {
+            "store_index": "K14",
+            "store_name": "스닉솔",
+            "store_review_URL": "https://place.map.kakao.com/26911179#comment"
+        },
+        {
+            "store_index": "L01",
+            "store_name": "탑텐",
+            "store_review_URL": "https://place.map.kakao.com/26908251#comment"
+        },
+        {
+            "store_index": "L02",
+            "store_name": "더플레이스",
+            "store_review_URL": "https://place.map.kakao.com/26333177#comment"
+        },
+        {
+            "store_index": "L03",
+            "store_name": "아티제",
+            "store_review_URL": "https://place.map.kakao.com/26897551#comment"
+        },
+        {
+            "store_index": "L04",
+            "store_name": "하동관",
+            "store_review_URL": "https://place.map.kakao.com/26428654#comment"
+        },
+        {
+            "store_index": "L05",
+            "store_name": "티아이포맨",
+            "store_review_URL": "https://place.map.kakao.com/590644308#comment"
+        },
+        {
+            "store_index": "L06",
+            "store_name": "스킨밴드",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "M01",
+            "store_name": "자라",
+            "store_review_URL": "https://place.map.kakao.com/26908227#comment"
+        },
+        {
+            "store_index": "M02",
+            "store_name": "에이랜드",
+            "store_review_URL": "https://place.map.kakao.com/13566616#comment"
+        },
+        {
+            "store_index": "M03",
+            "store_name": "나이키",
+            "store_review_URL": "https://place.map.kakao.com/26326478#comment"
+        },
+        {
+            "store_index": "M04",
+            "store_name": "아디다스 퍼포먼스",
+            "store_review_URL": "https://place.map.kakao.com/19568026#comment"
+        },
+        {
+            "store_index": "M05",
+            "store_name": "양키캔들",
+            "store_review_URL": "https://place.map.kakao.com/26404545#comment"
+        },
+        {
+            "store_index": "M06",
+            "store_name": "스위트 스페이스",
+            "store_review_URL": "https://place.map.kakao.com/26916233#comment"
+        },
+        {
+            "store_index": "M07",
+            "store_name": "로엠",
+            "store_review_URL": "https://place.map.kakao.com/530734419#comment"
+        },
+        {
+            "store_index": "N01",
+            "store_name": "다이소",
+            "store_review_URL": "https://place.map.kakao.com/26855882#comment"
+        },
+        {
+            "store_index": "N02",
+            "store_name": "브룩스브라더스",
+            "store_review_URL": "https://place.map.kakao.com/26908713#comment"
+        },
+        {
+            "store_index": "N03",
+            "store_name": "카카오프렌즈",
+            "store_review_URL": "https://place.map.kakao.com/26338954#comment"
+        },
+        {
+            "store_index": "N04",
+            "store_name": "스튜디오톰보이",
+            "store_review_URL": "https://place.map.kakao.com/1558611126#comment"
+        },
+        {
+            "store_index": "N05",
+            "store_name": "더프트앤도프트",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "N06",
+            "store_name": "드코닝",
+            "store_review_URL": "https://place.map.kakao.com/818469839#comment"
+        },
+        {
+            "store_index": "N07",
+            "store_name": "더바디샵",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "N08",
+            "store_name": "원더플레이스",
+            "store_review_URL": "https://place.map.kakao.com/421240167#comment"
+        },
+        {
+            "store_index": "N09",
+            "store_name": "스타벅스리저브",
+            "store_review_URL": "https://place.map.kakao.com/1997478625#comment"
+        },
+        {
+            "store_index": "N10",
+            "store_name": "이마트24 2호점",
+            "store_review_URL": "https://place.map.kakao.com/1096935388#comment"
+        },
+        {
+            "store_index": "N11",
+            "store_name": "H&M",
+            "store_review_URL": "https://place.map.kakao.com/210933059#comment"
+        },
+        {
+            "store_index": "N12",
+            "store_name": "찰스앤키스",
+            "store_review_URL": "https://place.map.kakao.com/26909447#comment"
+        },
+        {
+            "store_index": "N13",
+            "store_name": "맥도날드",
+            "store_review_URL": "https://place.map.kakao.com/18606490#comment"
+        },
+        {
+            "store_index": "O01",
+            "store_name": "폴바셋",
+            "store_review_URL": "https://place.map.kakao.com/26476916#comment"
+        },
+        {
+            "store_index": "O02",
+            "store_name": "버거비",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O03",
+            "store_name": "슬립앤슬립",
+            "store_review_URL": "https://place.map.kakao.com/11532866#comment"
+        },
+        {
+            "store_index": "O04",
+            "store_name": "코디센",
+            "store_review_URL": "https://place.map.kakao.com/11532866#comment"
+        },
+        {
+            "store_index": "O05",
+            "store_name": "지오지아",
+            "store_review_URL": "https://place.map.kakao.com/26908591#comment"
+        },
+        {
+            "store_index": "O06",
+            "store_name": "바디프렌드",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O07",
+            "store_name": "가가홈앤차일드",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O08",
+            "store_name": "래핑차일드",
+            "store_review_URL": "https://place.map.kakao.com/26630212#comment"
+        },
+        {
+            "store_index": "O09",
+            "store_name": "ABC마트 그랜드 스테이지",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O10",
+            "store_name": "케이스갤러리",
+            "store_review_URL": "https://place.map.kakao.com/27498065#comment"
+        },
+        {
+            "store_index": "O11",
+            "store_name": "잠바주스",
+            "store_review_URL": "https://place.map.kakao.com/26573364#comment"
+        },
+        {
+            "store_index": "O12",
+            "store_name": "아셈플라워랜드",
+            "store_review_URL": "https://place.map.kakao.com/12053141#comment"
+        },
+        {
+            "store_index": "O13",
+            "store_name": "크렌즈갤러리",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O14",
+            "store_name": "다이나핏",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O15",
+            "store_name": "언더아머",
+            "store_review_URL": "https://place.map.kakao.com/2124470710#comment"
+        },
+        {
+            "store_index": "O16",
+            "store_name": "스케쳐스",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O17",
+            "store_name": "컨버스",
+            "store_review_URL": "https://place.map.kakao.com/16678349#comment"
+        },
+        {
+            "store_index": "O18",
+            "store_name": "리복",
+            "store_review_URL": "https://place.map.kakao.com/117681814#comment"
+        },
+        {
+            "store_index": "O19",
+            "store_name": "반스",
+            "store_review_URL": "https://place.map.kakao.com/1265028519#comment"
+        },
+        {
+            "store_index": "O20",
+            "store_name": "팀버랜드",
+            "store_review_URL": "https://place.map.kakao.com/745914662#comment"
+        },
+        {
+            "store_index": "O21",
+            "store_name": "아디다스 오리지널",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "O22",
+            "store_name": "브릭라이브",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P01",
+            "store_name": "카페 마마스",
+            "store_review_URL": "https://place.map.kakao.com/23825000#comment"
+        },
+        {
+            "store_index": "P02",
+            "store_name": "영동 칼국수",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P03",
+            "store_name": "쇼군",
+            "store_review_URL": "https://place.map.kakao.com/16875378#comment"
+        },
+        {
+            "store_index": "P04",
+            "store_name": "홍대 돈부리",
+            "store_review_URL": "https://place.map.kakao.com/17360656#comment"
+        },
+        {
+            "store_index": "P05",
+            "store_name": "재동",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P06",
+            "store_name": "고와꽃방",
+            "store_review_URL": "https://place.map.kakao.com/8742946#comment"
+        },
+        {
+            "store_index": "P07",
+            "store_name": "파두",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P08",
+            "store_name": "티엠",
+            "store_review_URL": "https://place.map.kakao.com/26908624#comment"
+        },
+        {
+            "store_index": "P09",
+            "store_name": "콜란토테",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P10",
+            "store_name": "크레이지스토어",
+            "store_review_URL": "https://place.map.kakao.com/539860704#comment"
+        },
+        {
+            "store_index": "P11",
+            "store_name": "위니비니",
+            "store_review_URL": "https://place.map.kakao.com/27474668#comment"
+        },
+        {
+            "store_index": "P12",
+            "store_name": "온오프",
+            "store_review_URL": "https://place.map.kakao.com/26908407#comment"
+        },
+        {
+            "store_index": "P13",
+            "store_name": "트윙클",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P14",
+            "store_name": "블루x블루",
+            "store_review_URL": "https://place.map.kakao.com/1301160883#comment"
+        },
+        {
+            "store_index": "P15",
+            "store_name": "고려청자",
+            "store_review_URL": "https://place.map.kakao.com/16650864#comment"
+        },
+        {
+            "store_index": "P16",
+            "store_name": "아카데미과학",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P17",
+            "store_name": "예원",
+            "store_review_URL": "https://place.map.kakao.com/16040798#comment"
+        },
+        {
+            "store_index": "P18",
+            "store_name": "Fun it",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P19",
+            "store_name": "TOEBOX",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "P20",
+            "store_name": "뮤젤(MUZZEL)",
+            "store_review_URL": "https://place.map.kakao.com/26908507#comment"
+        },
+        {
+            "store_index": "P21",
+            "store_name": "한얼공예",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q01",
+            "store_name": "메이(MAY)",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q02",
+            "store_name": "카페 아이엠티",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q03",
+            "store_name": "예가낙지마을",
+            "store_review_URL": "https://place.map.kakao.com/875469542#comment"
+        },
+        {
+            "store_index": "Q04",
+            "store_name": "이니스프리",
+            "store_review_URL": "https://place.map.kakao.com/13096234#comment"
+        },
+        {
+            "store_index": "Q05",
+            "store_name": "에뛰드",
+            "store_review_URL": "https://place.map.kakao.com/12624571#comment"
+        },
+        {
+            "store_index": "Q06",
+            "store_name": "프라임안경",
+            "store_review_URL": "https://place.map.kakao.com/10879108#comment"
+        },
+        {
+            "store_index": "Q07",
+            "store_name": "메가박스",
+            "store_review_URL": "https://place.map.kakao.com/7877178#comment"
+        },
+        {
+            "store_index": "Q08",
+            "store_name": "OST",
+            "store_review_URL": "https://place.map.kakao.com/17814122#comment"
+        },
+        {
+            "store_index": "Q09",
+            "store_name": "리베",
+            "store_review_URL": "https://place.map.kakao.com/26908515#comment"
+        },
+        {
+            "store_index": "Q10",
+            "store_name": "클루",
+            "store_review_URL": "https://place.map.kakao.com/9972561#comment"
+        },
+        {
+            "store_index": "Q11",
+            "store_name": "로이드",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q12",
+            "store_name": "Alt729",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q13",
+            "store_name": "엔씨(&c.)",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q14",
+            "store_name": "One More night",
+            "store_review_URL": "https://place.map.kakao.com/26908575#comment"
+        },
+        {
+            "store_index": "Q15",
+            "store_name": "비라인",
+            "store_review_URL": "https://place.map.kakao.com/16847118#comment"
+        },
+        {
+            "store_index": "Q16",
+            "store_name": "네임바이네임",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q17",
+            "store_name": "아자",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "Q18",
+            "store_name": "스시한판",
+            "store_review_URL": "https://place.map.kakao.com/23686684#comment"
+        },
+        {
+            "store_index": "Q19",
+            "store_name": "도모다찌",
+            "store_review_URL": "https://place.map.kakao.com/13308284#comment"
+        },
+        {
+            "store_index": "Q20",
+            "store_name": "뽀모도로 스파게티",
+            "store_review_URL": "https://place.map.kakao.com/9803208#comment"
+        },
+        {
+            "store_index": "Q21",
+            "store_name": "동경",
+            "store_review_URL": "https://place.map.kakao.com/16986529#comment"
+        },
+        {
+            "store_index": "Q22",
+            "store_name": "하나투어",
+            "store_review_URL": "https://place.map.kakao.com/12426897#comment"
+        },
+        {
+            "store_index": "Q23",
+            "store_name": "우체국",
+            "store_review_URL": "https://place.map.kakao.com/12446010#comment"
+        },
+        {
+            "store_index": "Q24",
+            "store_name": "헌혈의집",
+            "store_review_URL": "https://place.map.kakao.com/11613171#comment"
+        },
+        {
+            "store_index": "R01",
+            "store_name": "초계국수",
+            "store_review_URL": "https://place.map.kakao.com/26897084#comment"
+        },
+        {
+            "store_index": "R02",
+            "store_name": "뽕신",
+            "store_review_URL": "https://place.map.kakao.com/26898655#comment"
+        },
+        {
+            "store_index": "R03",
+            "store_name": "크리스피도넛",
+            "store_review_URL": "https://place.map.kakao.com/27271444#comment"
+        },
+        {
+            "store_index": "R04",
+            "store_name": "에스키모",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "R05",
+            "store_name": "멘무샤",
+            "store_review_URL": "https://place.map.kakao.com/26327288#comment"
+        },
+        {
+            "store_index": "R06",
+            "store_name": "광화문미진",
+            "store_review_URL": "https://place.map.kakao.com/1393751331#comment"
+        },
+        {
+            "store_index": "R07",
+            "store_name": "샤이바나",
+            "store_review_URL": "https://place.map.kakao.com/26901292#comment"
+        },
+        {
+            "store_index": "R08",
+            "store_name": "엘지유플러스",
+            "store_review_URL": "https://place.map.kakao.com/26915434#comment"
+        },
+        {
+            "store_index": "S01",
+            "store_name": "반하는 보쌈&밥상",
+            "store_review_URL": "https://place.map.kakao.com/26897651#comment"
+        },
+        {
+            "store_index": "S02",
+            "store_name": "셰프의 국수N육개장",
+            "store_review_URL": "https://place.map.kakao.com/26896911#comment"
+        },
+        {
+            "store_index": "S03",
+            "store_name": "모박사부대찌개",
+            "store_review_URL": "https://place.map.kakao.com/21237842#comment"
+        },
+        {
+            "store_index": "S04",
+            "store_name": "제너럴반점",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "S05",
+            "store_name": "공차",
+            "store_review_URL": "https://place.map.kakao.com/23727279#comment"
+        },
+        {
+            "store_index": "S06",
+            "store_name": "흑백홍",
+            "store_review_URL": "https://place.map.kakao.com/8192209#comment"
+        },
+        {
+            "store_index": "S07",
+            "store_name": "프리클럽 포토샵",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "S08",
+            "store_name": "러기지앤백",
+            "store_review_URL": "https://place.map.kakao.com/26911935#comment"
+        },
+        {
+            "store_index": "S09",
+            "store_name": "지오다노",
+            "store_review_URL": "https://place.map.kakao.com/23557448#comment"
+        },
+        {
+            "store_index": "T01",
+            "store_name": "고봉삼계탕",
+            "store_review_URL": "https://place.map.kakao.com/493609024#comment"
+        },
+        {
+            "store_index": "T02",
+            "store_name": "안동찜닭&해물떡찜",
+            "store_review_URL": "https://place.map.kakao.com/16586866#comment"
+        },
+        {
+            "store_index": "T03",
+            "store_name": "더조이",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "T04",
+            "store_name": "위치스커피",
+            "store_review_URL": "https://place.map.kakao.com/26897345#comment"
+        },
+        {
+            "store_index": "T05",
+            "store_name": "쌍둥이분식",
+            "store_review_URL": "https://place.map.kakao.com/26896961#comment"
+        },
+        {
+            "store_index": "T06",
+            "store_name": "가득드림",
+            "store_review_URL": "https://place.map.kakao.com/24808019#comment"
+        },
+        {
+            "store_index": "T07",
+            "store_name": "앤티앤스",
+            "store_review_URL": "https://place.map.kakao.com/26897383#comment"
+        },
+        {
+            "store_index": "T08",
+            "store_name": "소노야",
+            "store_review_URL": "https://place.map.kakao.com/24001883#comment"
+        },
+        {
+            "store_index": "T09",
+            "store_name": "본우리반상",
+            "store_review_URL": "https://place.map.kakao.com/2002866660#comment"
+        },
+        {
+            "store_index": "T10",
+            "store_name": "캡텐",
+            "store_review_URL": "https://place.map.kakao.com/26908374#comment"
+        },
+        {
+            "store_index": "T11",
+            "store_name": "에비수",
+            "store_review_URL": "https://place.map.kakao.com/26908549#comment"
+        },
+        {
+            "store_index": "T12",
+            "store_name": "디자인스킨",
+            "store_review_URL": "https://place.map.kakao.com/725126175#comment"
+        },
+        {
+            "store_index": "T13",
+            "store_name": "송지연봉지",
+            "store_review_URL": "https://place.map.kakao.com/26908517#comment"
+        },
+        {
+            "store_index": "T14",
+            "store_name": "솔트앤초콜릿",
+            "store_review_URL": "https://place.map.kakao.com/26911978#comment"
+        },
+        {
+            "store_index": "T15",
+            "store_name": "이노아이",
+            "store_review_URL": "https://place.map.kakao.com/26908376#comment"
+        },
+        {
+            "store_index": "T16",
+            "store_name": "21세기 이동통신",
+            "store_review_URL": "https://place.map.kakao.com/16037955#comment"
+        },
+        {
+            "store_index": "T17",
+            "store_name": "사틴헤어",
+            "store_review_URL": "https://place.map.kakao.com/26571969#comment"
+        },
+        {
+            "store_index": "T18",
+            "store_name": "코데즈컴바인 이너웨어",
+            "store_review_URL": "https://place.map.kakao.com/26911802#comment"
+        },
+        {
+            "store_index": "T19",
+            "store_name": "샵원",
+            "store_review_URL": "https://place.map.kakao.com/26908542#comment"
+        },
+        {
+            "store_index": "T20",
+            "store_name": "포시즌",
+            "store_review_URL": "https://place.map.kakao.com/12759902#comment"
+        },
+        {
+            "store_index": "T21",
+            "store_name": "스타벅스",
+            "store_review_URL": "https://place.map.kakao.com/23707172#comment"
+        },
+        {
+            "store_index": "T22",
+            "store_name": "테이스팅룸",
+            "store_review_URL": "no data"
+        },
+        {
+            "store_index": "T23",
+            "store_name": "피에프창",
+            "store_review_URL": "https://place.map.kakao.com/26345047#comment"
+        },
+        {
+            "store_index": "T24",
+            "store_name": "이마트42 1호점",
+            "store_review_URL": "no data"
+        }
+    ]
+}
