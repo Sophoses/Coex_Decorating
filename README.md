@@ -21,3 +21,5 @@
 - Unity 2020.3.17f1, Visual Studio Community 2019
 - C#
 - JSON
+
+## Made by hyunheelee, younjkim, suminlee, yejinlee
